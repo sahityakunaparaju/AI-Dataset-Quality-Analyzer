@@ -1,0 +1,650 @@
+[
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T19:16:29.265658"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T19:40:50.287639"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T19:42:15.695873"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T20:48:16.021116"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T20:57:57.287548"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T20:57:57.304946"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T21:21:13.355360"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T21:21:13.374893"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T21:27:11.881102"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T21:27:11.906086"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:30:52.359840"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:30:52.378142"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:32:31.574563"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:32:31.592488"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T21:35:52.617403"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T21:35:52.648606"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:36:55.985978"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:36:56.032795"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T21:57:18.545201"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T21:57:18.566213"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:58:28.146979"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:58:28.187319"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:59:13.504404"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:59:13.526426"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:59:49.247112"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T21:59:49.265422"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T22:00:34.827749"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T22:00:34.850594"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T22:01:18.051527"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T22:01:18.070431"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T22:06:44.317421"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T22:06:44.348901"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T22:07:38.069447"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-09T22:07:38.101814"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T22:26:32.908413"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T22:26:32.929965"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T22:34:58.211660"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T22:34:58.244198"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T22:46:38.786815"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-09T22:46:38.831113"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T09:11:50.025887"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T09:11:50.058233"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:14:29.021013"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:14:29.059798"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:16:14.817348"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:16:14.850898"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:36:08.871846"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:36:08.899539"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:39:17.831442"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:39:17.868085"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:46:36.366490"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T09:46:36.397046"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T09:48:30.239927"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T09:48:30.270398"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T09:50:55.174780"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T09:50:55.201044"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T10:05:06.420950"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T10:05:06.452958"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T10:13:54.331555"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T10:13:54.356693"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T10:14:46.000005"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T10:14:46.033393"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T10:21:06.828103"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T10:21:06.857193"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T10:22:04.577786"
+  },
+  {
+    "dataset_name": "trending_topics_2026_synthetic.csv",
+    "rows": 2500,
+    "columns": 12,
+    "numeric_features": 2,
+    "categorical_features": 10,
+    "health_score": 85.0,
+    "timestamp": "2026-03-10T10:22:04.613060"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T10:22:29.818185"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T10:22:29.852062"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T10:25:58.041711"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T10:25:58.076280"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T10:27:10.831293"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T10:27:10.857679"
+  }
+]
