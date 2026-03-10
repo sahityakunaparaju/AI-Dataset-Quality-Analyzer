@@ -646,5 +646,59 @@
     "categorical_features": 8,
     "health_score": 82.22,
     "timestamp": "2026-03-10T10:27:10.857679"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T11:24:27.839656"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T11:24:27.870812"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T11:34:19.676106"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 90.22,
+    "timestamp": "2026-03-10T11:34:19.726510"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T11:35:09.546158"
+  },
+  {
+    "dataset_name": "ev_battery_qc_data_2026_kaggle.csv",
+    "rows": 20000,
+    "columns": 14,
+    "numeric_features": 6,
+    "categorical_features": 8,
+    "health_score": 82.22,
+    "timestamp": "2026-03-10T11:35:09.570088"
   }
 ]
