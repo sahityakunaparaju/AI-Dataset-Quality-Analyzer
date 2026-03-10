@@ -282,16 +282,6 @@ History Monitor
 
 ---
 
-# Resume Description
-
-Built a **machine learning dataset monitoring platform** that performs automated dataset diagnostics including missing value detection, correlation analysis, outlier detection, class imbalance analysis, and data leakage identification.
-
-Designed a **dataset health scoring system** to evaluate data readiness for machine learning pipelines.
-
-Implemented **baseline ML evaluation using Random Forest models** and developed an interactive analytics dashboard using **FastAPI and Streamlit**.
-
----
-
 # Future Improvements
 
 * Dataset version control system
